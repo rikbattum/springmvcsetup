@@ -1,0 +1,11 @@
+webshop\controllers\BookController.class
+springwebmvc\impl\TrapDao.class
+springwebmvc\impl\DeurDaoImpl.class
+springwebmvc\impl\DeurKlink.class
+springwebmvc\impl\TrapDaoImpl.class
+springwebmvc\impl\Baksteen.class
+springwebmvc\impl\Deur.class
+springwebmvc\impl\DeurDao.class
+springwebmvc\impl\HuisType.class
+springwebmvc\impl\Huis.class
+springwebmvc\impl\Trap.class
